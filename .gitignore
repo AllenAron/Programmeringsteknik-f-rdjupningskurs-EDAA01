@@ -10,5 +10,4 @@
 .project
 .classpath
 .jar
-
-.prefs
+org.eclipse.core.resources.prefs
