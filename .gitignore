@@ -1,0 +1,14 @@
+# Ignore all class files
+*.class
+
+# Ignore DS_Store
+**/.DS_Store
+
+.metadata/
+.vscode/
+!.src/
+.project
+.classpath
+.jar
+
+.prefs
